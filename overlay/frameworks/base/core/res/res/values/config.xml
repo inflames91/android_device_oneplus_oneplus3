@@ -411,8 +411,10 @@
         <item>"/system/framework/arm64/boot-core-libart.oat"</item>
    </string-array>
 
-
     <!-- Whether device has dash charging support -->
     <bool name="config_hasDashCharger">true</bool>
 
+    <!-- Whether notify fingerprint client of successful cancelled authentication -->
+    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
+>>>>>>> 8c2266c... op3: Remove fpc delays after authentication cancelled
 </resources>
