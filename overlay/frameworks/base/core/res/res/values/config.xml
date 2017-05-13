@@ -416,5 +416,4 @@
 
     <!-- Whether notify fingerprint client of successful cancelled authentication -->
     <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
->>>>>>> 8c2266c... op3: Remove fpc delays after authentication cancelled
 </resources>
