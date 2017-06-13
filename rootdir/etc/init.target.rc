@@ -44,6 +44,8 @@ on fs
     mkdir /persist/bms 0700 root system
     restorecon_recursive /persist
 
+    write /data/property/persist.camera.HAL3.enabled 1
+
 on init
     write /sys/module/qpnp_rtc/parameters/poweron_alarm 1
 
