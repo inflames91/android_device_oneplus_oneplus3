@@ -113,9 +113,6 @@
         <value>559</value>
         <value>655</value>
     </array>
-    <item name="cpu.idle">4.1</item>
-    <item name="cpu.awake">16</item>
-    <item name="battery.capacity">3400</item>
     <item name="cpu.idle">4.9</item>
     <item name="cpu.awake">8</item>
     <item name="battery.capacity">3000</item>
